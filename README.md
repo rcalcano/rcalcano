@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rcalcano/rcalcano)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rcalcano/miPrimerRepo)
